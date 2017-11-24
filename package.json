@@ -1,6 +1,6 @@
 {
   "name": "js-st",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Stately JS",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/swizzard/jst"
   },
-  "license": "WTFPL" , 
+  "license": "WTFPL",
   "devDependencies": {
     "mocha": "^4.0.1"
   }
