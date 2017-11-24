@@ -1,0 +1,22 @@
+{
+  "name": "js-st",
+  "version": "0.1.0",
+  "description": "Stately JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "fp",
+    "state"
+  ],
+  "author": "sam raker <sam.raker@gmail.com> (https://swizzard.pizza)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swizzard/jst"
+  },
+  "license": "WTFPL" , 
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
